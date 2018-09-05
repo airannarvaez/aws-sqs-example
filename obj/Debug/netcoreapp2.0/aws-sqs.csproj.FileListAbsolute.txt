@@ -1,0 +1,11 @@
+C:\Advanced\aws-sqs\bin\Debug\netcoreapp2.0\aws-sqs.deps.json
+C:\Advanced\aws-sqs\bin\Debug\netcoreapp2.0\aws-sqs.runtimeconfig.json
+C:\Advanced\aws-sqs\bin\Debug\netcoreapp2.0\aws-sqs.runtimeconfig.dev.json
+C:\Advanced\aws-sqs\bin\Debug\netcoreapp2.0\aws-sqs.dll
+C:\Advanced\aws-sqs\bin\Debug\netcoreapp2.0\aws-sqs.pdb
+C:\Advanced\aws-sqs\obj\Debug\netcoreapp2.0\aws-sqs.csproj.CoreCompileInputs.cache
+C:\Advanced\aws-sqs\obj\Debug\netcoreapp2.0\aws-sqs.AssemblyInfoInputs.cache
+C:\Advanced\aws-sqs\obj\Debug\netcoreapp2.0\aws-sqs.AssemblyInfo.cs
+C:\Advanced\aws-sqs\obj\Debug\netcoreapp2.0\aws-sqs.dll
+C:\Advanced\aws-sqs\obj\Debug\netcoreapp2.0\aws-sqs.pdb
+C:\Advanced\aws-sqs\obj\Debug\netcoreapp2.0\aws-sqs.csprojResolveAssemblyReference.cache
