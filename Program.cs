@@ -21,7 +21,7 @@ namespace ConsoleApplication
             //Create some Credentials with our IAM user
             var awsCreds = new BasicAWSCredentials("[ACCESSKEY]", "[SECRETKEY]");
 
-            //Create a client to talk to SQS
+            //Create a client to talk to SQS - Verify the region of SQS
             var amazonSQSClient = new AmazonSQSClient(awsCreds,Amazon.RegionEndpoint.EUWest1);
 
             //Create the request to send
